@@ -5,7 +5,7 @@ The website is built using **HTML5** and **CSS3** with a clean user interface, r
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website](https://bucolic-sunshine-091fda.netlify.app/)
+🔗 [View Live Website](https://finishedfrontendproject.netlify.app/)
 
 ## 📌 Project Overview
 
