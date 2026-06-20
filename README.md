@@ -44,7 +44,6 @@ bella-vista-restaurant/
 │
 ├── index.html
 ├── style.css
-└── images/
 ```
 
 ## 📸 Website Sections
